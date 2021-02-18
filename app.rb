@@ -25,7 +25,7 @@ configure do
 	(
 		"id" INTEGER PRIMARY KEY AUTOINCREMENT, 
 		"username" TEXT, 
-		"phone", TEXT,
+		"phone" TEXT,
 		"datestamp" TEXT, 
 		"barber" TEXT, 
 		"color" TEXT
